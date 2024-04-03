@@ -6,7 +6,9 @@ st.set_page_config(
 
 st.title("Heal-a-tune 🎶 ")
 st.sidebar.success("Select the page above")
-
+background_image = "1643831658110.jpeg"
+st.image(background_image)
+        
 st.write("Heal-a-tune 🎶 ")
 st.markdown(
     """
@@ -43,5 +45,3 @@ Market Research: Companies can employ this system to gauge consumer reactions to
      - Check out [GitHub](https://github.com/enderXM249)  
     
 """)
-
-
