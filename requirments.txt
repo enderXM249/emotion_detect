@@ -1,5 +1,0 @@
-tensorflow
-streamlit
-numpy
-pygame
-opencv-python
